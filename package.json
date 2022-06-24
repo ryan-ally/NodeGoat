@@ -21,7 +21,7 @@
     "serve-favicon": "^2.3.0",
     "swig": "^1.4.2",
     "underscore": "^1.8.3",
-    "snyk": "^1.450.0"
+    "snyk": "^1.680.0"
   },
   "comments": {
     "//": "a9 insecure components"
@@ -57,7 +57,7 @@
     "grunt-npm-install": "^0.3.0",
     "grunt-retire": "^1.0.4",
     "mocha": "^6.2.3",
-    "nodemon": "^1.19.1",
+    "nodemon": "^2.0.17",
     "selenium-webdriver": "^3.5.0",
     "should": "^8.3.1",
     "zaproxy": "^1.0.1"
