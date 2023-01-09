@@ -16,12 +16,12 @@
     "helmet": "^3.21.1",
     "marked": "4.0.10",
     "mongodb": "^3.1.13",
-    "needle": "2.2.4",
+    "needle": "2.3.0",
     "node-esapi": "0.0.1",
     "serve-favicon": "^2.3.0",
     "swig": "^1.4.2",
     "underscore": "^1.8.3",
-    "snyk": "^1.450.0"
+    "snyk": "^1.518.0"
   },
   "comments": {
     "//": "a9 insecure components"
@@ -44,7 +44,7 @@
   "devDependencies": {
     "async": "^2.6.4",
     "cross-env": "^7.0.2",
-    "cypress": "^4.12.0",
+    "cypress": "^7.4.0",
     "grunt": "^1.5.3",
     "grunt-cli": "^1.2.0",
     "grunt-concurrent": "^2.3.0",
