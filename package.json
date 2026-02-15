@@ -6,11 +6,11 @@
   "main": "server.js",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
-    "body-parser": "^1.15.1",
+    "body-parser": "^1.20.4",
     "consolidate": "^0.14.1",
     "csurf": "^1.8.3",
     "dont-sniff-mimetype": "^1.0.0",
-    "express": "^4.13.4",
+    "express": "^4.22.0",
     "express-session": "^1.13.0",
     "forever": "^2.0.0",
     "helmet": "^3.21.1",
@@ -44,7 +44,7 @@
   "devDependencies": {
     "async": "^2.6.4",
     "cross-env": "^7.0.2",
-    "cypress": "^4.12.0",
+    "cypress": "^13.0.0",
     "grunt": "^1.5.3",
     "grunt-cli": "^1.2.0",
     "grunt-concurrent": "^2.3.0",
